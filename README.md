@@ -2,9 +2,7 @@
 
 ![System overview](overview.png)
 
-Code to accompany our paper "Learning Maximally Matchable Image Transformations for Long-term Visual Localization". 
-
-**NOTE: Input/output data and trained models are not included due to restrictions on file size for supplementary material.**
+Code to accompany our paper "Learning Maximally Matchable Image Transformations for Long-term Metric Visual Localization". 
 
 ## Dependencies
 * numpy
